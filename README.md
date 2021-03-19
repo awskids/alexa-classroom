@@ -11,16 +11,6 @@
 1. need an Amazon.com account
 2. need a physical Alexa device attached to Amazon.com account or access to the Alexa App for iOS / Android
 
-## Exploring Alexa
-
-https://alexa.amazon.com/
-
-https://help.goaskmyclass.com/portal/en/kb/articles/tips-for-getting-started-with-alexa-in-the-classroom
-https://www.mrsrichardsonsclass.com/10-ways-to-use-alexa-in-the-classroom/
-https://www.weareteachers.com/educational-alexa-skills/
-https://www.gurutechnolabs.com/future-of-alexa-in-education-portals/
-
-
 ## Blueprints
 
 https://blueprints.amazon.com/
@@ -28,3 +18,14 @@ https://blueprints.amazon.com/
 ## Custom Skills
 
 Skill Types
+
+## Exploring Alexa
+
+[Alexa Web App](https://alexa.amazon.com/)  
+
+[Tips to use in Classroom](https://help.goaskmyclass.com/portal/en/kb/articles/tips-for-getting-started-with-alexa-in-the-classroom)  
+[10 WAYS TO USE ALEXA IN THE CLASSROOM](https://www.mrsrichardsonsclass.com/10-ways-to-use-alexa-in-the-classroom/)  
+[20 Educational Games and Activities for Alexa](https://www.weareteachers.com/educational-alexa-skills/)  
+[11 Best Ways of Using Alexa in the Classroom](https://www.gurutechnolabs.com/future-of-alexa-in-education-portals/)  
+
+![Cheatsheet](/assets/alexa-cheatsheet.jpg)  
